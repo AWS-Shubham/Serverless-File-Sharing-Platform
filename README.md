@@ -88,7 +88,7 @@ Use Cases:
        ```bash
        curl --location 'https://<api-id>.execute-api.<region>.amazonaws.com/dev/files?fileName=test.txt' \
        --header 'Content-Type: text/plain' \
-       --data 'Hello World from A Monk in Cloud!'
+       --data 'Hello World from Shubham!'
        ```
 
     3. Download a File \
